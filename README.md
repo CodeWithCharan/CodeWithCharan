@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Banner Image" width="1000" height="300">
+<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Banner Image" width="1050" height="250">
 <h1 align="center">Hi 👋, I'm Charan</h1>
 <h3 align="center">I am a CSE student pursuing B.Tech with a specialization in AI and ML.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/CodeWithCharan" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithCharan?logo=twitter&style=for-the-badge" alt="CodeWithCharan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codewithcharan.github.io/My-Portfolio/](https://codewithcharan.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://codewithcharan.github.io/My-Portfolio/)
+
+- 📝 Check out my [Resume](https://codewithcharan.github.io/My-Portfolio/NewResume.pdf)
 
 - 📫 How to reach me **thoutamsricharan@gmail.com**
 
