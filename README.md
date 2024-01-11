@@ -22,8 +22,7 @@ if __name__ == '__main__':
 - 👨‍💻 All of my projects are available at my [Portfolio](https://codewithcharan.github.io/My-Portfolio/)
 
 - 📝 Check out my [Resume](https://codewithcharan.github.io/My-Portfolio/NewResume.pdf)
-
-- 📫 How to reach me **thoutamsricharan@gmail.com**
+- :email: Email me at **thoutamsricharan@gmail.com**
 
 ## :mailbox: Connect With Me
 <img align="right" src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="handshake gif" width="150">
