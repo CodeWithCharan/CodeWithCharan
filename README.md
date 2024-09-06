@@ -5,18 +5,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcharan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcharan" /> </p>
 
 ```python
-class Charan():
-    
+class Charan:
   def __init__(self):
-    self.name = "Sri Charan Thoutam";
-    self.username = "CodeWithCharan";
-    self.location = "India";
+    self.name = "Sri Charan Thoutam"
+    self.username = "CodeWithCharan"
+    self.location = "India"
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
     me = Charan()
+    print(me)
 ```
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://codewithcharan.github.io/My-Portfolio/)
