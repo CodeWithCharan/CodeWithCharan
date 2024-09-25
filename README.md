@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Charan</h1>
-<h3 align="center">I am a CSE student pursuing B.Tech with a specialization in AI and ML.</h3>
 <img align="right" alt="Coding" width="310" src="https://github.com/CodeWithCharan/CodeWithCharan/assets/106027109/25360c58-4939-4e82-9bb4-b1dec48b2ed1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcharan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcharan" /> </p>
