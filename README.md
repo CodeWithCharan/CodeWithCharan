@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charan</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charan!+😁;"/>
 <img align="right" alt="Coding" width="310" src="https://github.com/CodeWithCharan/CodeWithCharan/assets/106027109/25360c58-4939-4e82-9bb4-b1dec48b2ed1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcharan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcharan" /> </p>
@@ -35,24 +35,11 @@ if __name__ == '__main__':
 ## :hourglass_flowing_sand: Skills
 <img align="right" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="experience gif" width="150">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colaboratory](https://img.shields.io/badge/googlecolab-%2307405e.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,vscode,aws,docker,fastapi,flask,pytorch,tensorflow,anaconda,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=ai,regex,sklearn,mysql,mongodb,html,css,js,windows,linux,pandas,numpy,mlflow,dvc,streamlit" />
+
+## :dizzy: My Contributions
+[![Charan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithCharan&bg_color=000000&color=a59b9b&line=25b63d&point=a59c9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## :chart_with_upwards_trend: Stats
 
@@ -66,3 +53,5 @@ if __name__ == '__main__':
 <img align="right" src="https://github.com/CodeWithCharan/CodeWithCharan/assets/106027109/fecc5bbe-0e7e-470b-8b47-b64698679912" alt="vibing gif" width="250">
 
 [![Spotify](https://github-readme-spotify-integration.vercel.app/api/spotify)](https://open.spotify.com/playlist/2HPkKZL6zbcFZ6yLq44yKb?si=71985dda53e14643)
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Message+me+on+Linkedin!;+I'm+always+down+to+collab+:)"/>
